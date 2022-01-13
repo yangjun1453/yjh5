@@ -14,7 +14,7 @@
     </ul>
     <h2>常见平台：</h2>
     <ul>
-        <LI><a href="https://arena.5eplay.com/download">5eplay</a>
+        <LI><a href="https://arena.5eplay.com/download">5eplay</a></li>
         <li><a href="https://pvp.wanmei.com/">完美</a></li>
         <li><a href="https://www.b5.plus/">b5</a></li>
     </ul>
